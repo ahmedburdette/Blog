@@ -1,0 +1,31 @@
+/* Reset default browser styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Style the header */
+header {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
+
+/* Style the main content area */
+main {
+  padding: 2rem;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+/* Style the footer */
+footer {
+  background-color: #333;
+  padding: 1rem;
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+}
